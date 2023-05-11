@@ -1,6 +1,7 @@
 
-// https://www.youtube.com/watch?v=vyqbNFMDRGQ&t=6687s
-// left off at Enemy Sprite (Kenji) 3:01:56
+// Author: Ninette Tan
+// Tutorial source: https://www.youtube.com/watch?v=vyqbNFMDRGQ&t=6687s
+
 
 
 const canvas = document.querySelector('canvas');
